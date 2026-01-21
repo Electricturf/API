@@ -1,5 +1,9 @@
 {
-    "test.ub":"hi",
-    "support":1,
-    "supportType":""
+    "HelloBuild.ub": {
+        "support": 1,
+        "supportType": "",
+        "test.ub": "hi",
+        "content":"<font size='22'><b><stroke color='#00FFE1' thickness='2'>⚡ UB NODE ⚡</stroke></b></font>  <font size='14' color='#B6FFF6'> Status: <b><font color='#00FF88'>ONLINE</font></b> </font>  <font size='13'> 🔹 Games<br/> 🔹 Experiments<br/> 🔹 Chaos </font>  <font size='12' color='#9AAEFF'> build · break · repeat </font>  <font size='11' color='#666666'> v1.0.7 </font> ",
+        "audio":"2342333244"
+    }
 }
